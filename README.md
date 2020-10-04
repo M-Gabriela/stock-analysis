@@ -8,7 +8,7 @@ This project aims to analyze the data of different Wall Street Green Stocks to u
 
 Based on our analysis results, we can observe that in 2017, the Green Stocks' return was significantly higher than in 2018. In 2017, only TERP stocks showed a negative return, while in 2018, most of the stocks (except for ENPH and RUN) had a negative return. 
 
-As a result, we can also notice that even when ENPH stocks return decreased in 2018 compared to 2017, in both years the return is over 80%, while the RUN stock went from 5.5% in 2017 to 84.0% in 2018. Due to the drastic increment of the RUN stock, ENPH seems like a more stable stock to invest in, since there are more factors that need to be considered (value of the stocks, revenues, etc.) See Graph 1 - 2017 Stocks Return and Graph 2 - 2018 Stocks Return. 
+We can also notice that even when ENPH stocks return decreased in 2018 compared to 2017, in both years the return is over 80%, while the RUN stock went from 5.5% in 2017 to 84.0% in 2018. Due to the drastic increment of the RUN stock, ENPH seems like a more stable stock to invest in, since there are more factors that need to be considered (value of the stocks, revenues, etc.) See Graph 1 - 2017 Stocks Return and Graph 2 - 2018 Stocks Return. 
 
 ![image_name](Resources/2017_Stocks_Return.png)
 *Graph - 1 2017 Stocks Return*
@@ -24,7 +24,7 @@ This analysis was performed more efficiently, creating a tickerIndex to access t
 *Fig. 1 Tickers Difference between AllStockAnalysis and AllStockAnalysis_Refactored.*
 
 
-We went from 0.625 seconds for the year 2018 to 0.1054688 seconds with the refactored code when measuring the code performance. And from 0.625 seconds for the year 2017 vs. 0.109375 seconds with the refactored code. See Fig 2 - Refactored 2017 Results & Fig 3 - Refactored 2018 Results.
+As a result, we went from 0.625 seconds for the year 2018 to 0.1054688 seconds with the refactored code when measuring the code performance. And from 0.625 seconds for the year 2017 vs. 0.109375 seconds with the refactored code. See Fig 2 - Refactored 2017 Results & Fig 3 - Refactored 2018 Results.
 
 ![image_name](Resources/VBA_Challenge_2017.png)
 *Fig. 2 - Refactored 2017 Results*
