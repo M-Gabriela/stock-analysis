@@ -20,7 +20,7 @@ We can also notice that even when ENPH stocks return decreased in 2018 compared 
 This analysis was performed more efficiently, creating a tickerIndex to access the tickers across the different arrays instead of identifying all the tickers on our code one by one, saving time and memory. See figure 1 — Tickers Difference between AllStockAnalysis and AllStockAnalysis_Refactored.
 
 
-![image_name](Resources/Fig_1 _code_comparison.png)
+![image_name](Resources/Fig_1_code_comparison.png)
 *Fig. 1 Tickers Difference between AllStockAnalysis and AllStockAnalysis_Refactored.*
 
 
