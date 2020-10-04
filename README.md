@@ -11,10 +11,10 @@ Based on our analysis results, we can observe that in 2017, the Green Stocks' re
 We can also notice that even when ENPH stocks return decreased in 2018 compared to 2017, in both years the return is over 80%, while the RUN stock went from 5.5% in 2017 to 84.0% in 2018. Due to the drastic increment of the RUN stock, ENPH seems like a more stable stock to invest in, since there are more factors that need to be considered (value of the stocks, revenues, etc.) See Graph 1 - 2017 Stocks Return and Graph 2 - 2018 Stocks Return. 
 
 ![image_name](Resources/2017 Stocks Return .png)
-*Graph - 1 2017 Stocks Return
+*Graph - 1 2017 Stocks Return*
 
 ![image_name](Resources/2018 Stocks Return.png)
-*Graph - 2 2018 Stocks Return
+*Graph - 2 2018 Stocks Return*
 
 
 This analysis was performed more efficiently, creating a tickerIndex to access the tickers across the different arrays instead of identifying all the tickers on our code one by one, saving time and memory. See figure 1 — Tickers Difference between AllStockAnalysis and AllStockAnalysis_Refactored.
